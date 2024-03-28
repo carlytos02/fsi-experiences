@@ -5,7 +5,7 @@
   <IntroducedVersion>1.0</IntroducedVersion>
   <FileName>/PluginAssemblies/MicrosoftCloudForFSILoanOnboardingStarterRibbonPlugin-4108CE2B-FEDC-448C-86EB-2C7EAFC482D2/MicrosoftCloudForFSILoanOnboardingStarterRibbonPlugin.dll</FileName>
   <PluginTypes>
-    <PluginType AssemblyQualifiedName="Microsoft.CloudForFSI.LoanOnboardingStarterRibbon.Plugins.ApplicationArchivingPlugin, Microsoft.CloudForFSI.LoanOnboardingStarterRibbon.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" PluginTypeId="e093af98-42db-4e51-a0fc-49f33ceb9192" Name="Microsoft.CloudForFSI.LoanOnboardingStarterRibbon.Plugins.ApplicationArchivingPlugin">
+    <PluginType AssemblyQualifiedName="Microsoft.CloudForFSI.LoanOnboardingStarterRibbon.Plugins.ApplicationArchivingPlugin, Microsoft.CloudForFSI.LoanOnboardingStarterRibbon.Plugins, Version=1.0.0.0, Culture=neutral, PublicKeyToken=bc0400d8cfe0d818" PluginTypeId="e093af98-42db-4e51-a0fc-49f33ceb9192" Name="Microsoft.CloudForFSI.LoanOnboardingStarterRibbon.Plugins.ApplicationArchivingPlugin">
       <FriendlyName>2f477cb7-8a1e-4434-bc1b-c5ce2d6d3b70</FriendlyName>
     </PluginType>
   </PluginTypes>
